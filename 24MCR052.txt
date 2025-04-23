@@ -2,3 +2,4 @@ Name:Kavibharathi S
 Reg No: 24MCR052
 Department:MCA
 Fav.Programming Language:JAVA
+Mobile model:Redmi
